@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(207, 238, 238);
+}
+
+.TitleContainer{
+ 
+  transform: translate(30%,10%);
+
+}
+.titleHeading{
+  
+  font-size: 150px;
+}
+.titlePara{
+  font-size: 30px;
+}
+button{
+  margin: 15px;
+  
+}
